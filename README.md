@@ -77,7 +77,7 @@
     <!-- Header -->
     <header>
         <h1>SONPRAMUI</h1>
-        <p>Fakultas Teknik - Universitas Gadjah Mada</p>
+        <p>Portal Media Terupdate</p>
     </header>
 
     <!-- Navigation -->
@@ -116,8 +116,11 @@
         <!-- Berita dan Penelitian -->
         <div class="section">
             <h2>Berita & Penelitian</h2>
-            <p><strong>Penelitian Baru: Aplikasi Nuklir dalam Medis</strong></p>
-            <p>Tim peneliti SONPRAMUI mengembangkan teknologi baru dalam radioterapi untuk pengobatan kanker yang lebih efektif dan efisien.</p>
+            <p><strong>Sonpramui Media: Komitmen Memberikan Informasi Terupdate Anti SARA dan Hoaks</strong></p>
+            <p>Sonpramui Media hadir dengan visi untuk menyediakan informasi yang cepat, akurat, dan terpercaya kepada masyarakat. Dengan komitmen kuat terhadap prinsip jurnalistik, Sonpramui Media memastikan setiap berita yang disampaikan bebas dari konten yang mengandung SARA (Suku, Agama, Ras, dan Antar Golongan) serta hoaks.</p>
+			<p>Dalam era digital yang serba cepat ini, penyebaran informasi yang salah atau menyesatkan dapat dengan mudah merusak kehidupan sosial dan membahayakan persatuan bangsa. Sonpramui Media berupaya mengedukasi pembaca dan mendorong masyarakat untuk lebih cerdas dalam memilah dan memilih informasi yang mereka terima. Dengan jurnalis yang berpengalaman dan sumber yang dapat dipercaya, Sonpramui Media terus berinovasi agar tetap menjadi pilihan utama dalam mendapatkan berita yang benar-benar dapat dipertanggungjawabkan.</p>
+			<p>Sonpramui Media juga aktif dalam memberikan klarifikasi terhadap berita yang beredar, memastikan masyarakat selalu mendapatkan fakta yang valid dan menghindari informasi yang berpotensi meresahkan. Dengan semangat anti-hoaks dan anti-SARA, Sonpramui Media berperan aktif dalam menjaga keharmonisan sosial dan memperkuat persatuan di Indonesia.</p>
+
         </div>
 
         <!-- Kontak -->
