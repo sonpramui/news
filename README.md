@@ -126,7 +126,7 @@
         <!-- Kontak -->
         <div class="contact">
             <h2>Hubungi Kami</h2>
-            <p>Alamat: Fakultas Teknik UGM, Yogyakarta</p>
+            <p>Alamat: Jakarta Timur, Jalan Beceng 888</p>
             <p>Email: <a href="mailto:sonpramui@gmail.com" style="color: #ffcc00;">sonpramui@gmail.com</a></p>
             <p>Telepon: <a href="tel:+6281360611463" style="color: #ffcc00;">+62 813 6061 1463</a></p>
         </div>
