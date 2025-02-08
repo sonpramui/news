@@ -84,8 +84,8 @@
     <nav>
         <a href="#">Beranda</a>
         <a href="#">Profil</a>
-        <a href="#">Akademik</a>
-        <a href="#">Penelitian</a>
+        <a href="#">Berita</a>
+        <a href="#">Trending</a>
         <a href="#">Kontak</a>
     </nav>
 
@@ -113,9 +113,9 @@
             </ul>
         </div>
 
-        <!-- Berita dan Penelitian -->
+        <!-- Berita dan Trending -->
         <div class="section">
-            <h2>Berita & Penelitian</h2>
+            <h2>Berita & Trending</h2>
             <p><strong>Sonpramui Media: Komitmen Memberikan Informasi Terupdate Anti SARA dan Hoaks</strong></p>
             <p>Sonpramui Media hadir dengan visi untuk menyediakan informasi yang cepat, akurat, dan terpercaya kepada masyarakat. Dengan komitmen kuat terhadap prinsip jurnalistik, Sonpramui Media memastikan setiap berita yang disampaikan bebas dari konten yang mengandung SARA (Suku, Agama, Ras, dan Antar Golongan) serta hoaks.</p>
 			<p>Dalam era digital yang serba cepat ini, penyebaran informasi yang salah atau menyesatkan dapat dengan mudah merusak kehidupan sosial dan membahayakan persatuan bangsa. Sonpramui Media berupaya mengedukasi pembaca dan mendorong masyarakat untuk lebih cerdas dalam memilah dan memilih informasi yang mereka terima. Dengan jurnalis yang berpengalaman dan sumber yang dapat dipercaya, Sonpramui Media terus berinovasi agar tetap menjadi pilihan utama dalam mendapatkan berita yang benar-benar dapat dipertanggungjawabkan.</p>
